@@ -2,7 +2,7 @@
 #!/usr/bin/python
 
 class Developer:
-    def __init__(self):
+    def __init__(self, work):
         self.name = "Guilherme Cabral"
         self.role = "Developer/Pentester"
         self.language_spoken = ["pt_PT", "en_US"]
@@ -10,6 +10,9 @@ class Developer:
                               "Hacker Exposed": "https://drive.proton.me/urls/YGJH542X70#VdGEZDixXXaX",
                               "Network Security": "https://drive.proton.me/urls/SPZS71EB30#EeFsrnzag8sE"
                              }
+        self.skills = ["python", "bash", "c", "cpp", "cs"]
+        work.environment = ["debian", "vscode"]
+        
         self.contact = "work@g-cabral.com"
         self.hackerrank = "https://hackerrank.com/stutghost"
         self.instagram = "https://instagram.com/guilherme.cabral16"
@@ -19,19 +22,6 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-
-#
-
-### 🖥 Environment
-![Environment](https://skillicons.dev/icons?i=linux,vscode)
-
-<br>
-
-### 🧰 Languages and Tools
-![Skills](https://skillicons.dev/icons?i=py,bash,c,cpp,cs)
-
-#
-
 ### 📊 Stats
 
 ![Stutghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=stutghost&show_icons=true&theme=gruvbox)
