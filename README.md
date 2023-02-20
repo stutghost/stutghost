@@ -33,4 +33,4 @@ me.say_hi()
 ```
 ### 📊 Stats
 
-![Stutghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=stutghost&show_icons=true&theme=gruvbox)
+![Stutghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=stutghost&show_icons=true&theme=dark)
