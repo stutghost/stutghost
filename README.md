@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Pro🗂</h1>
+<h1 align="center">Welcome to my Pro📄</h1>
 <h4>I'm Guilherme and I'm 16 years old. Since I was a kid, Programming and Cyber Security caught my attention, so I dedicate myself to this, because when you work on what you like, it doesn't feel like you're working!</h4>
 
 - 🎓 I’m currently learning **Bash, C/C++ and C#**
