@@ -6,17 +6,22 @@ class Developer:
         self.name = "Guilherme Cabral"
         self.role = "Developer/Pentester"
         self.language_spoken = ["pt_PT", "en_US"]
+        
         self.certification = {
                               "Hacker Exposed": "https://drive.proton.me/urls/YGJH542X70#VdGEZDixXXaX",
                               "Network Security": "https://drive.proton.me/urls/SPZS71EB30#EeFsrnzag8sE"
                              }
         self.skills = ["python", "bash", "c", "cpp", "cs"]
         work.environment = ["debian", "vscode"]
-        
+ 
         self.contact = "work@g-cabral.com"
-        self.hackerrank = "https://hackerrank.com/stutghost"
-        self.instagram = "https://instagram.com/guilherme.cabral16"
+        self.profiles = {
+                         "Hacker Rank" : "https://hackerrank.com/stutghost",
+                         "Instagram" : "https://instagram.com/guilherme.cabral16"
+                        }
         
+        self.donate = {"XMR" : "4AE3Z39vTnR4mGFqM3z4cKEGT1w4PoLH8RQMxSNXpZipAyciq7nscNieUkbMfWtMKuhhndSN5uw7W2N8FhwsappeG9nTcio"}
+  
     def say_hi(self):
         print("Thank you for visiting my profile! <3")
 me = Developer()
