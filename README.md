@@ -10,7 +10,10 @@ class Developer:
         self.name = "Guilherme Cabral"
         self.role = "Developer/Pentester"
         self.language_spoken = ["pt_PT", "en_US"]
-        self.learning = ["Bash", "C", "C++", "C#"]
+        self.certification = {
+                                "Hacker Exposed": "https://drive.proton.me/urls/YGJH542X70#VdGEZDixXXaX",
+                                "Network Security": "https://drive.proton.me/urls/SPZS71EB30#EeFsrnzag8sE"
+                             }
         self.contact = "work@g-cabral.com"
         self.hackerrank = "https://hackerrank.com/stutghost"
         self.instagram = "https://instagram.com/guilherme.cabral16"
