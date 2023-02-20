@@ -1,45 +1,38 @@
-👨🏽‍💻 Guilherme Cabral
-
-**`Digital Craftsman (Developer/Junior Software Engenier)`**
-
-I'm Guilherme and I'm 16 years old. Since I was a kid, Programming and Cyber Security caught my attention, so I dedicate myself to this, because when you work on what you like, it doesn't feel like you're working!
-
-- 🎓 I’m currently learning **Bash, C/C++ and C#**
-
-- 📩 How to reach me **work@g-cabral.com**
-
-- 🤷🏽‍♂️ **I'm different... I do what I like!**
-
-
-<p align="left">
-  <a href="https://github.com/stutghost?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/stutghost?tab=repositories&sort=stutghost"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
+```python
+#!/usr/bin/python
 
+class Developer:
+    def __init__(self):
+        self.name = "Guilherme Cabral"
+        self.role = "Developer/Pentester"
+        self.language_spoken = ["pt_PT", "en_US"]
+        self.learning = ["Bash", "C", "C++", "C#"]
+        self.contact = "work@g-cabral.com"
+        self.hackerrank = "https://hackerrank.com/stutghost"
+        self.instagram = "https://instagram.com/guilherme.cabral16"
+        
+    def say_hi(self):
+        print("Thank you for visiting my profile! <3")
+me = Developer()
+me.say_hi()
+```
 
+#
+
+### 🖥 Environment
+![Environment](https://skillicons.dev/icons?i=linux,vscode)
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/stutghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stutghost" height="30" width="40" /></a>
-<a href="https://instagram.com/guilherme.cabral16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guilherme.cabral16" height="30" width="40" /></a>
-</p>
+### 🧰 Languages and Tools
+![Skills](https://skillicons.dev/icons?i=py,bash,c,cpp,cs)
 
-<br>
+#
 
----
+### 📊 Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-</p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stutghost&show_icons=true&locale=en&layout=compact" alt="stutghost" /></p>
+![Stutghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=stutghost&show_icons=true&theme=gruvbox)
