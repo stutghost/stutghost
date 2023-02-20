@@ -4,7 +4,6 @@
 
 ```python
 #!/usr/bin/python
-
 class Developer:
     def __init__(self, work):
         self.name = "Guilherme Cabral"
