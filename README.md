@@ -1,11 +1,23 @@
-<h1 align="center">Welcome to my Pro📄</h1>
-<h4>I'm Guilherme and I'm 16 years old. Since I was a kid, Programming and Cyber Security caught my attention, so I dedicate myself to this, because when you work on what you like, it doesn't feel like you're working!</h4>
+👨🏽‍💻 Guilherme Cabral
+
+**`Digital Craftsman (Developer/Junior Software Engenier)`**
+
+I'm Guilherme and I'm 16 years old. Since I was a kid, Programming and Cyber Security caught my attention, so I dedicate myself to this, because when you work on what you like, it doesn't feel like you're working!
 
 - 🎓 I’m currently learning **Bash, C/C++ and C#**
 
 - 📩 How to reach me **work@g-cabral.com**
 
 - 🤷🏽‍♂️ **I'm different... I do what I like!**
+
+
+<p align="left">
+  <a href="https://github.com/stutghost?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/stutghost?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+
+
 
 <br>
 
